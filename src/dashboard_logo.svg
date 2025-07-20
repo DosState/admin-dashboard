@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Background square border -->
+  <rect x="10" y="10" width="80" height="80" fill="none" stroke="white" stroke-width="2" rx="4" opacity="0.3"/>
+  
+  <!-- Dashboard grid -->
+  <rect x="18" y="18" width="25" height="15" fill="white" rx="2"/>
+  <rect x="50" y="18" width="32" height="15" fill="white" rx="2" opacity="0.7"/>
+  <rect x="18" y="40" width="25" height="20" fill="white" rx="2" opacity="0.8"/>
+  <rect x="50" y="40" width="32" height="20" fill="white" rx="2"/>
+  
+  <!-- Bottom wide chart element -->
+  <rect x="18" y="68" width="64" height="14" fill="white" rx="2" opacity="0.6"/>
+  
+  <!-- Dashboard metrics squares -->
+  <rect x="30" y="24" width="3" height="3" fill="rgba(255,255,255,0.9)" rx="0.5"/>
+  <rect x="66" y="24" width="3" height="3" fill="rgba(255,255,255,0.9)" rx="0.5"/>
+  <rect x="30" y="48" width="3" height="3" fill="rgba(255,255,255,0.9)" rx="0.5"/>
+  <rect x="66" y="48" width="3" height="3" fill="rgba(255,255,255,0.9)" rx="0.5"/>
+  
+
+</svg>
