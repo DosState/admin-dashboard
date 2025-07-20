@@ -191,10 +191,10 @@ body{
 }
 
 .branding h1{
-    flex: 1 1 0; /* Use 0 as flex-basis for proper shrinking */
+    flex: 1 1 0; 
     text-align: center;
-    font-size: clamp(0.8rem, 2vw, 1.2rem); /* Much smaller responsive font */
-    min-width: 0; /* Allow shrinking below content size */
+    font-size: clamp(0.8rem, 2vw, 3rem); 
+    min-width: 0; 
     overflow: hidden;
     text-overflow: clip;
     white-space: nowrap;
